@@ -1,7 +1,7 @@
 ## Smart India Hackathon Workshop
 ## Date: 30:04:2025
-## Register Number: 212223040202
-## Name: sri hari R
+## Register Number: 212223110033
+## Name: OVIYA P
 
 ## Problem Title
 Virtual Herbal Garden
@@ -25,11 +25,10 @@ Search and Filter: Smart filters and search bar to help users locate plants by r
 User Interaction Features: Bookmark plants, take notes, share info, and view their personal garden space or plant trail progress.
 
 ## Proposed Solution / Architecture Diagram
-![ChatGPT Image Apr 30, 2025, 10_18_11 AM](https://github.com/user-attachments/assets/6ed22929-f2cb-4134-a946-c0873e81f2a3)
-
+alt text
 
 ## Use Cases
-
+alt text
 
 ## Technology Stack
 React.js
@@ -44,4 +43,3 @@ Git, Postman or Insomnia
 Plant Data Collection – 10 days
 Multimedia Integration – 7 days
 Budget – Rs. 80,000
-
