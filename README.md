@@ -3,21 +3,45 @@
 ## Register Number:
 ## Name:
 ## Problem Title
-SIH 1555: Create a Virtual Herbal Garden that provides an interactive, educational, and immersive experience to users, showcasing the diverse range of medicinal plants used in AYUSH (Ayurveda, Yoga & Naturopathy, Unani, Siddha, and Homeopathy).
-## Problem Description
-Background: The AYUSH sector relies heavily on medicinal plants and herbs, which form the backbone of traditional healing practices. However, physical gardens that are not accessible to everyone. A Virtual Herbal Garden will bridge this gap by offering a digital platform where users can explore, learn, and understand the significance of various medicinal plants from the comfort of their homes. Description: Participants are tasked with developing a Virtual Herbal Garden that is engaging, informative, and user-friendly. This virtual garden should include: Interactive 3D Models: Realistic 3D models of medicinal plants that users can rotate, zoom, and explore from different angles. Detailed Information: Comprehensive details about each plant, including its botanical name, common names, habitat, medicinal uses, and methods of cultivation. Multimedia Integration: High-quality images, videos, and audio descriptions to enhance the learning experience. Search and Filter Options: Advanced search functionality to easily locate specific plants and filter them based on various criteria like medicinal uses, region, and type. Virtual Tours: Guided virtual tours highlighting specific themes, such as plants for digestive health, immunity, skin care, etc. User Interaction: Features that allow users to bookmark favourite plants, take notes, and share information on social media. Expected Outcome: The expected outcome is a comprehensive Virtual Herbal Garden that serves as a valuable educational tool for students, practitioners, and enthusiasts of the AYUSH sector. This platform should make the knowledge of medicinal plants accessible to a wider audience, promoting awareness and understanding of traditional herbal practices. It should be visually appealing, informative, and interactive, providing users with an immersive experience that combines technology with traditional knowledge.
+Virtual Herbal Garden
 
-## Problem Creater's Organization
-Ministry of Ayush
+## Problem Description
+A web-based virtual garden that provides an interactive, educational, and immersive experience to users, showcasing the diverse range of medicinal plants used in AYUSH (Ayurveda, Yoga & Naturopathy, Unani, Siddha, and Homeopathy). The platform allows users to explore realistic 3D plant models, view medicinal details, and take thematic virtual tours while also offering features like bookmarking, multimedia content, and personalized learning.
+
+Problem Creater's Organization
+Ministry of AYUSH
 
 ## Idea
 
+Interactive 3D Models: Use WebGL and Three.js to render 3D medicinal plant models that users can rotate, zoom, and explore with click-based info popups.
+
+Detailed Information: Each plant will have data such as botanical/common names, region, medicinal use, cultivation, and precautions.
+
+Virtual Tours: Curated virtual trails (e.g., "Immunity Boosting Plants", "Skin Care Trail") guiding users through specific plant categories with narration.
+
+Search and Filter: Smart filters and search bar to help users locate plants by region, use-case, type, or AYUSH system.
+
+User Interaction Features: Bookmark plants, take notes, share info, and view their personal garden space or plant trail progress.
 
 ## Proposed Solution / Architecture Diagram
+![ChatGPT Image Apr 30, 2025, 10_18_11 AM](https://github.com/user-attachments/assets/6a9e0f97-ddc8-4e47-938c-4fcc69507763)
 
 
 ## Use Cases
 
+## Technology Stack
+React.js
+Three.js
+Node.js
+MongoDB or PostgreSQL
+WebGL
+Git, Postman or Insomnia
+
+## Dependencies
+3D Model Development – 15 days
+Plant Data Collection – 10 days
+Multimedia Integration – 7 days
+Budget – Rs. 80,000
 
 ## Technology Stack
 
