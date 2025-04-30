@@ -1,7 +1,10 @@
-Smart India Hackathon Workshop
+## Smart India Hackathon Workshop
 Date: 30:04:2025
+
 Register Number: 212223040202
+
 Name: Sri hari R
+
 
 ## Problem Title
 Virtual Herbal Garden
