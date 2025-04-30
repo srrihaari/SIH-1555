@@ -25,21 +25,31 @@ Search and Filter: Smart filters and search bar to help users locate plants by r
 User Interaction Features: Bookmark plants, take notes, share info, and view their personal garden space or plant trail progress.
 
 ## Proposed Solution / Architecture Diagram
-alt text
+
 
 ## Use Cases
 alt text
 
 ## Technology Stack
 React.js
+
 Three.js
+
 Node.js
+
 MongoDB or PostgreSQL
+
 WebGL
+
 Git, Postman or Insomnia
+
 
 ## Dependencies
 3D Model Development – 15 days
+
 Plant Data Collection – 10 days
+
 Multimedia Integration – 7 days
+
 Budget – Rs. 80,000
+
