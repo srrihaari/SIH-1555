@@ -1,14 +1,15 @@
-# Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+Smart India Hackathon Workshop
+Date: 30:04:2025
+Register Number: 212223040202
+Name: sri hari R
+
 ## Problem Title
 Virtual Herbal Garden
 
 ## Problem Description
 A web-based virtual garden that provides an interactive, educational, and immersive experience to users, showcasing the diverse range of medicinal plants used in AYUSH (Ayurveda, Yoga & Naturopathy, Unani, Siddha, and Homeopathy). The platform allows users to explore realistic 3D plant models, view medicinal details, and take thematic virtual tours while also offering features like bookmarking, multimedia content, and personalized learning.
 
-Problem Creater's Organization
+## Problem Creater's Organization
 Ministry of AYUSH
 
 ## Idea
@@ -24,10 +25,11 @@ Search and Filter: Smart filters and search bar to help users locate plants by r
 User Interaction Features: Bookmark plants, take notes, share info, and view their personal garden space or plant trail progress.
 
 ## Proposed Solution / Architecture Diagram
-![ChatGPT Image Apr 30, 2025, 10_18_11 AM](https://github.com/user-attachments/assets/6a9e0f97-ddc8-4e47-938c-4fcc69507763)
+![ChatGPT Image Apr 30, 2025, 10_18_11 AM](https://github.com/user-attachments/assets/6ed22929-f2cb-4134-a946-c0873e81f2a3)
 
 
 ## Use Cases
+
 
 ## Technology Stack
 React.js
@@ -42,9 +44,4 @@ Git, Postman or Insomnia
 Plant Data Collection – 10 days
 Multimedia Integration – 7 days
 Budget – Rs. 80,000
-
-## Technology Stack
-
-
-## Dependencies
 
