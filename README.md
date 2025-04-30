@@ -30,8 +30,19 @@ User Interaction Features: Bookmark plants, take notes, share info, and view the
 ## Proposed Solution / Architecture Diagram
 ![ChatGPT Image Apr 30, 2025, 10_40_05 AM](https://github.com/user-attachments/assets/32e47bbe-677a-41c7-b6a6-7f3ca94c4fa2)
 
+
 ## Use Cases
-alt text
+
+| Use Case ID | Title                           | Description                                                                 |
+|-------------|---------------------------------|-----------------------------------------------------------------------------|
+| UC1         | View Plant Information          | Users browse plants and view their medicinal properties and usage.         |
+| UC2         | Explore 3D Model                | Users interact with plant models (zoom, rotate, pan).                      |
+| UC3         | Guided Tour                     | Users take virtual themed tours (e.g., “Immunity Plants”).                 |
+| UC4         | Search & Filter                 | Users filter plants based on disease, region, or AYUSH system.            |
+| UC5         | Bookmark/Save Plants            | Users can mark favorite plants and save notes.                            |
+| UC6         | Share to Social Media           | Share plant profiles via social platforms.                                |
+| UC7         | Multimedia Playback             | Users can view video, listen to audio explanations, or photo galleries.   |
+| UC8         | Admin Management (Optional)     | Admins can add/edit plant data, images, and videos.                       |
 
 ## Technology Stack
 React.js
